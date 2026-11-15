@@ -354,8 +354,7 @@ Built with:
 
 ## 📞 Contact
 
-<<<<<<< HEAD
-For questions or support: [your-email@company.com]
+
 =======
 For questions or support: [arvindhramsenthilkumar@gmail.com]
 >>>>>>> df0bbfbcb43ed2650def06055c5be2d8ec0e0e05
