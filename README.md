@@ -357,8 +357,6 @@ Built with:
 
 =======
 For questions or support: [arvindhramsenthilkumar@gmail.com]
->>>>>>> df0bbfbcb43ed2650def06055c5be2d8ec0e0e05
-
 ---
 
 **Made with ❤️ | Employee Growth Intelligence System**
