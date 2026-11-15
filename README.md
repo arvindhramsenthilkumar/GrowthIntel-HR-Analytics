@@ -354,7 +354,7 @@ Built with:
 
 ## 📞 Contact
 
-For questions or support: [your-email@company.com]
+For questions or support: [arvindhramsenthilkumar@gmail.com]
 
 ---
 
